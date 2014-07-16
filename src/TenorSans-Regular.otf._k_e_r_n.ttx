@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="T" v="-120"/>
+      <pair l="A" r="V" v="-90"/>
+      <pair l="A" r="W" v="-80"/>
+      <pair l="A" r="Y" v="-90"/>
+      <pair l="D" r="T" v="-70"/>
+      <pair l="F" r="J" v="-120"/>
+      <pair l="L" r="T" v="-160"/>
+      <pair l="L" r="Y" v="-100"/>
+      <pair l="O" r="T" v="-70"/>
+      <pair l="R" r="V" v="-60"/>
+      <pair l="R" r="W" v="-60"/>
+      <pair l="R" r="Y" v="-80"/>
+      <pair l="T" r="A" v="-120"/>
+      <pair l="T" r="C" v="-70"/>
+      <pair l="T" r="J" v="-120"/>
+      <pair l="T" r="O" v="-70"/>
+      <pair l="T" r="a" v="-170"/>
+      <pair l="T" r="c" v="-170"/>
+      <pair l="T" r="d" v="-170"/>
+      <pair l="T" r="e" v="-170"/>
+      <pair l="T" r="f" v="-60"/>
+      <pair l="T" r="g" v="-180"/>
+      <pair l="T" r="m" v="-170"/>
+      <pair l="T" r="n" v="-170"/>
+      <pair l="T" r="o" v="-170"/>
+      <pair l="T" r="p" v="-170"/>
+      <pair l="T" r="q" v="-170"/>
+      <pair l="T" r="r" v="-181"/>
+      <pair l="T" r="s" v="-180"/>
+      <pair l="T" r="u" v="-170"/>
+      <pair l="T" r="v" v="-170"/>
+      <pair l="T" r="w" v="-170"/>
+      <pair l="T" r="x" v="-170"/>
+      <pair l="T" r="y" v="-170"/>
+      <pair l="T" r="z" v="-170"/>
+      <pair l="V" r="A" v="-90"/>
+      <pair l="W" r="A" v="-80"/>
+      <pair l="Y" r="A" v="-90"/>
+      <pair l="Y" r="J" v="-100"/>
+      <pair l="uni0413" r="uni0410" v="-139"/>
+      <pair l="uni0413" r="uni0414" v="-180"/>
+      <pair l="uni0413" r="uni041B" v="-180"/>
+      <pair l="uni0413" r="uni0431" v="-83"/>
+      <pair l="uni0413" r="uni0432" v="-208"/>
+      <pair l="uni0413" r="uni0433" v="-208"/>
+      <pair l="uni0413" r="uni0434" v="-208"/>
+      <pair l="uni0413" r="uni0436" v="-208"/>
+      <pair l="uni0413" r="uni0437" v="-208"/>
+      <pair l="uni0413" r="uni0438" v="-208"/>
+      <pair l="uni0413" r="uni0439" v="-62"/>
+      <pair l="uni0413" r="uni043A" v="-208"/>
+      <pair l="uni0413" r="uni043B" v="-208"/>
+      <pair l="uni0413" r="uni043C" v="-208"/>
+      <pair l="uni0413" r="uni043D" v="-208"/>
+      <pair l="uni0413" r="uni043F" v="-208"/>
+      <pair l="uni0413" r="uni0440" v="-208"/>
+      <pair l="uni0413" r="uni0442" v="-208"/>
+      <pair l="uni0413" r="uni0443" v="-208"/>
+      <pair l="uni0413" r="uni0444" v="-208"/>
+      <pair l="uni0413" r="uni0445" v="-208"/>
+      <pair l="uni0413" r="uni0446" v="-208"/>
+      <pair l="uni0413" r="uni0447" v="-208"/>
+      <pair l="uni0413" r="uni0448" v="-208"/>
+      <pair l="uni0413" r="uni0449" v="-208"/>
+      <pair l="uni0413" r="uni044A" v="-208"/>
+      <pair l="uni0413" r="uni044B" v="-208"/>
+      <pair l="uni0413" r="uni044C" v="-208"/>
+      <pair l="uni0413" r="uni044D" v="-208"/>
+      <pair l="uni0413" r="uni044E" v="-208"/>
+      <pair l="uni0413" r="uni044F" v="-208"/>
+      <pair l="uni0433" r="uni0434" v="-100"/>
+      <pair l="uni0433" r="uni043B" v="-100"/>
+      <pair l="uni0443" r="uni0434" v="-63"/>
+      <pair l="uni0443" r="uni043B" v="-63"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
